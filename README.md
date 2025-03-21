@@ -17,7 +17,7 @@ Este site foi desenvolvido usando Nuxt.js, um framework Vue.js versátil que fac
 
 * **Nuxt.js:** Framework Vue.js para renderização universal e desenvolvimento rápido.
 * **Vue.js:** Biblioteca JavaScript para construção de interfaces de usuário.
-* **[Outras tecnologias]:** Liste outras tecnologias que você utilizou, como CSS frameworks (Tailwind CSS, Bootstrap), bibliotecas JavaScript, etc.
+
 
 ## Como Executar o Projeto
 
